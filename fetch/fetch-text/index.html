@@ -11,7 +11,7 @@
   </head>
 
   <body>
-    <h1>Fetch text example</h1>
+    <h1>Fetch text</h1>
     <ul>
       <li><a data-page="page1">Page-1</a></li>
       <li><a data-page="page2">Page-2</a></li>
@@ -44,7 +44,7 @@
         .then((text) => {
           myArticle.innerText = text;
         })
-        .catch((error) => {
+        .catch((error) =>{
           myArticle.innerText = `Error: ${error.message}`;
         });
     }
