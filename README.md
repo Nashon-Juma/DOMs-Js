@@ -6,7 +6,7 @@ Code examples which accompany various MDN DOM and Web API documentation pages.
 
 - The "audiocontext-setsinkid" directory contains an example of how to use the [`AudioContext.setSinkId()`](https://developer.mozilla.org/docs/Web/API/AudioContext/setSinkId) method and related features. [Run the example live](https://mdn.github.io/dom-examples/audiocontext-setsinkid/).
 
-- The "auxclick" directory contains a basic example demonstrating the new <code>auxclick</code> event type. See [GlobalEventHandlers.auxclick](https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onauxclick) for more details, or [run the example live](https://mdn.github.io/dom-examples/auxclick/).
+- The "aux_click" directory contains a basic example demonstrating the new <code>auxclick</code> event type. See [GlobalEventHandlers.auxclick](https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onauxclick) for more details, or [run the example live](https://mdn.github.io/dom-examples/auxclick/).
 
 - The "canvas" directory contains an example "chroma-keying" demonstrating how to use the Canvas API to manipulate videos: see [Manipulating video using canvas](https://developer.mozilla.org/docs/Web/API/Canvas_API/Manipulating_video_using_canvas) or [run the example live](https://mdn.github.io/dom-examples/canvas/chroma-keying/).
 
@@ -22,7 +22,7 @@ Code examples which accompany various MDN DOM and Web API documentation pages.
 
 - The "edit-context" directory contains examples demonstrating the [EditContext API](https://developer.mozilla.org/docs/Web/API/EditContext_API). See the [list of examples](https://github.com/mdn/dom-examples/tree/main/edit-context/).
 
-- The "fullscreen-api" directory is for examples and demos of the [Fullscreen API](https://wiki.developer.mozilla.org/docs/Web/API/Fullscreen_API). Run the [example live](https://mdn.github.io/dom-examples/fullscreen-api/).
+- The "full_screen-api" directory is for examples and demos of the [Fullscreen API](https://wiki.developer.mozilla.org/docs/Web/API/Fullscreen_API). Run the [example live](https://mdn.github.io/dom-examples/fullscreen-api/).
 
 - The "history-api" directory contains an example that demonstrates the [History API](https://developer.mozilla.org/docs/Web/API/History_API). [View the demo live](https://mdn.github.io/dom-examples/history-api/).
 
