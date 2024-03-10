@@ -9,7 +9,7 @@ button, select, label {
 	padding: 6px 12px;
 	text-align: center;
 	background-color: transparent;
-	border-radius: .25rem;
+	border-radius: 0.25rem;
   }
   
   button {
